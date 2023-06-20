@@ -1,0 +1,12 @@
+* TP5
+1) Write your own function to apply the darkness (modify_value = 100)
+
+Using the following formula: new_intensity = original_intensity - modify_value
+
+(if new_intensity < 0 then new_intensity = 0)
+
+2) Write your own function to apply the brightness (modify_value = 100)
+
+Using the following formula: new_intensity = original_intensity + modify_value
+
+(if new_intensity > 255 then new_intensity = 255)
